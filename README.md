@@ -1,6 +1,13 @@
 - Hi, I’m @Slavetomints
-- I’m interested in learning programming
-- I’m currently learning through the Odin Project
+
+Langs I know:
+- HTML
+- CSS
+- JS
+- Python
+- Ruby
+
+- I’m currently learning through the Odin Project and school
 - Pronouns: she/her
 - Fun fact: Magic: The Gathering can be turned into a computer, sort of
 
