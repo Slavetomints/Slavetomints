@@ -1,4 +1,4 @@
-- Hi, I’m @Slavetomints
+- Hi, I’m @Slavetomints (she/her)
 
 Langs I know:
 - HTML
@@ -7,8 +7,8 @@ Langs I know:
 - Python
 - Ruby
 
+Other
 - I’m currently learning through the Odin Project and school
-- Pronouns: she/her
 - Fun fact: Magic: The Gathering can be turned into a computer, sort of
 
 <!---
