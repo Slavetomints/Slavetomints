@@ -1,6 +1,6 @@
 - Hi, I’m @Slavetomints (she/her)
 
-Langs I know:
+Languagess I know:
 - HTML
 - CSS
 - JS
