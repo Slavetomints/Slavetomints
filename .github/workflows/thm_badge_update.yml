@@ -1,0 +1,20 @@
+name: TryHackMe Badge Workflow
+
+on:
+  schedule:
+    # This will run the workflow every day at midnight UTC
+    - cron: '0 0 * * *'  # Midnight UTC every day
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: TryHackMe Badge Workflow
+        uses: p4p1/tryhackme-badge-workflow@1.0.0
+        with:
+          image_path: ./assets/thm_propic.png
+          username: Slavetomints
+          committer_username: thm-p4p1-bot
+          committer_email: p4p1@thm.bot
+          commit_message: Updated TryHackMe Badge
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
