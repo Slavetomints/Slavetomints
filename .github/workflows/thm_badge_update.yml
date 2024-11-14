@@ -4,6 +4,8 @@ on:
   schedule:
     # This will run the workflow every day at midnight UTC
     - cron: '0 0 * * *'  # Midnight UTC every day
+  workflow_dispatch:
+    
 
 jobs:
   update-badge:
