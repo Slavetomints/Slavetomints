@@ -6,10 +6,14 @@ Languages I know:
 - JS
 - Python
 - Ruby
+## My TryHackMe Badge
 
-Other
-- I’m currently learning through the Odin Project and school
-- Fun fact: Magic: The Gathering can be turned into a computer, sort of
+Here's my TryHackMe progress:
+
+![TryHackMe Badge](./assets/thm_propic.png)
+
+You can check out my TryHackMe profile [here](https://tryhackme.com/p/Slavetomints).
+
 
 <!---
 Slavetomints/Slavetomints is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
