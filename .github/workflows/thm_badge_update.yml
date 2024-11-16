@@ -1,7 +1,7 @@
 name: TryHackMe Badge Workflow
 
 permissions:
-  contents: write  # Required for pushing changes
+  contents: write
 
 on:
   schedule:
@@ -16,16 +16,17 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
-      - name: Ensure assets directory exists
-        run: mkdir -p ./assets
+      - name: Create assets directory if it doesn't exist
+        run: mkdir -p ./assets  # Ensures 'assets' directory exists
 
-      - name: Debug Environment Variables
+      - name: Delete existing badge image if it exists
         run: |
-          echo "GITHUB_TOKEN is set: ${GITHUB_TOKEN:+Yes}"
-          echo "Checking image_path exists: ./assets/thm_propic.png"
-          ls ./assets || echo "Directory is empty!"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          if [ -f ./assets/thm_propic.png ]; then
+            echo "Deleting existing badge image"
+            rm ./assets/thm_propic.png
+          else
+            echo "No existing badge image to delete"
+          fi
 
       - name: Run TryHackMe Badge Workflow
         uses: p4p1/tryhackme-badge-workflow@1.0.0
@@ -38,9 +39,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Debug Git Status
+      - name: Debug Token Permissions
         run: |
-          echo "Git status:"
-          git status
           echo "Testing push permissions..."
           git push origin main || echo "Failed to push!"
