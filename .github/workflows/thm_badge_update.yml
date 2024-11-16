@@ -1,45 +1,19 @@
-name: TryHackMe Badge Workflow
-
-permissions:
-  contents: write
+name: TryHackMe Update Badge
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight UTC
-  workflow_dispatch:  # Allows manual trigger
-
+    # Make it run every 24 hour
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 jobs:
-  update-badge:
+  tryhackme-badge-update:
+    name: Update this repo's tryhackme badge with the latest tryhackme image badge
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v3
-
-      - name: Create assets directory if it doesn't exist
-        run: mkdir -p ./assets  # Ensures 'assets' directory exists
-
-      - name: Delete existing badge image if it exists
-        run: |
-          if [ -f ./assets/thm_propic.png ]; then
-            echo "Deleting existing badge image"
-            rm ./assets/thm_propic.png
-          else
-            echo "No existing badge image to delete"
-          fi
-
-      - name: Run TryHackMe Badge Workflow
-        uses: p4p1/tryhackme-badge-workflow@1.0.0
+      - uses: actions/checkout@v2
+      - uses: p4p1/tryhackme-badge-workflow@main
         with:
-          image_path: ./assets/thm_propic.png
-          username: Slavetomints
-          committer_username: thm-p4p1-bot
-          committer_email: p4p1@thm.bot
-          commit_message: Updated TryHackMe Badge
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Debug Token Permissions
-        run: |
-          echo "Testing push permissions..."
-          git push origin main || echo "Failed to push!"
+          # Replace with your tryhackme username
+          username: "Slavetomints"
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
+                                                  # and will pull your github token automatically
