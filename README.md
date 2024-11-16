@@ -1,18 +1,14 @@
-- Hi, I’m @Slavetomints (she/her)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=slavetomints&theme=midnight-purple" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slavetomints&theme=midnight-purple&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Slavetomints&theme=midnight-purple&border_radius=5" />
+</a>
 
-Languages I know:
-- HTML
-- CSS
-- JS
-- Python
-- Ruby
-## My TryHackMe Badge
-
-Here's my TryHackMe progress:
-
-![TryHackMe Badge](./assets/thm_propic.png)
-
-You can check out my TryHackMe profile [here](https://tryhackme.com/p/Slavetomints).
+![TryHackMe Badge](https://github.com/Slavetomints/Slavetomints/blob/main/assets/thm_propic.png)
 
 
 <!---
