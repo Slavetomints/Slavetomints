@@ -31,5 +31,5 @@ You can reach me at the following, please give 1-2 business days for a response:
 <ul>
   <li><p><a href="https://discord.com/users/703115086935359568" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"></a> @ Slavetomints#2103</p>
 </li>
-  <li><p><a href="mailto:slavetomints@gmail.com" ><img src="https://img.shields.io/badge/gmail-EA4335.svg?logo=gmail&logoColor=white"></a> @ slavetomints@gmail.com</p></li>
+  <li><p><a href="mailto:slavetomints@protonmail.com" ><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff"></a> @ slavetomints@protonmail.com</p></li>
 </ul>
