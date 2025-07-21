@@ -1,6 +1,6 @@
 ## About Me
 
-ello! I'm Slavetomints <a href="https://www.lgbtqnation.com/2022/02/adding-pronouns-email-signatures/" title="Why include pronouns?">(she/her)</a>, a cybersecurity student passionate about CTF challenges, Cyber Skyline's National Cyber League, and all things tech. Explore my projects, guides, and writeups to dive into my world of cybersecurity adventures.
+Hello! I'm Slavetomints <a href="https://www.lgbtqnation.com/2022/02/adding-pronouns-email-signatures/" title="Why include pronouns?">(she/her)</a>, a cybersecurity student passionate about CTF challenges, Cyber Skyline's National Cyber League, and all things tech. Explore my projects, guides, and writeups to dive into my world of cybersecurity adventures.
 
 ## My Skills
 
