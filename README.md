@@ -21,7 +21,7 @@ Hello! I'm Slavetomints <a href="https://www.lgbtqnation.com/2022/02/adding-pron
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=slavetomints&theme=blueberry&show_icons=true&count_private=true">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=slavetomints&theme=blueberry&show_icons=true&count_private=true&rank_icon=github">
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=slavetomints&theme=blueberry"></td><td width="50%" align="center">
 <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=slavetomints&theme=blueberry&hide=html,css&hide_border=false&no-bg=true&no-frame=true&langs_count=10"></td></tr></tbody></table>
