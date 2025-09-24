@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm Slavetomints <a href="https://www.lgbtqnation.com/2022/02/adding-pronouns-email-signatures/" title="Why include pronouns?">(she/her)</a>, a cybersecurity student who helps <a href="detraced.org"> DeTraced Security</a> with Cyber Threat Intelligence. Explore my projects, guides, and writeups to dive into my world of cybersecurity adventures.
+Hello! I'm Slavetomints <a href="https://www.lgbtqnation.com/2022/02/adding-pronouns-email-signatures/" title="Why include pronouns?">(she/her)</a>, a cybersecurity student who helps <a href="https://detraced.org"> DeTraced Security</a> with Cyber Threat Intelligence. Explore my projects, guides, and writeups to dive into my world of cybersecurity adventures.
 
 ## My Skills
 
