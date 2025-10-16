@@ -29,14 +29,19 @@ Hello! I'm Slavetomints <a href="https://www.lgbtqnation.com/2022/02/adding-pron
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)
 ![Jekyll](https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale)
+![Proxmox](https://img.shields.io/badge/proxmox-000000?logo=proxmox&logoColor=E57000)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?logo=pihole)
 
 ### Operating Systems
 
 ![linux logo](https://img.shields.io/badge/Linux-%23000000.svg?logo=linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
+![Raspbian](https://img.shields.io/badge/Raspbian-%23A22846?logo=raspberrypi)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
-
+![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?logo=cisco&logoColor=white)
+![Apple iOS](https://img.shields.io/badge/Apple_iOS-000000?&logo=apple&logoColor=white)
 
 ## GitHub Stats
 
